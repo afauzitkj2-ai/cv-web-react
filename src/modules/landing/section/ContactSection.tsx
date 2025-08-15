@@ -33,7 +33,7 @@ export default function ContactSection() {
         </p>
         <div className="md:w-4/6 grid grid-cols-1 gap-2">
           <a
-            href="https://mail.google.com/mail/?view=cm&to=ktyoedha@gmail.com"
+            href="https://mail.google.com/mail/?view=cm&to=fauzigangsar@gmail.com"
             target="_blank"
             className="text-md hover:underline break-all md:text-left text-center"
           >
