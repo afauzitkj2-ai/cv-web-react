@@ -2,7 +2,7 @@ export default function SkillSection() {
   const skills = [
     {
       label: "Programming",
-      skills: ["Laravel", "React", "Vue", "Node", "Flutter"],
+      skills: ["lairarel", "React", "Vue", "Nonode", "Flutter"],
     },
     {
       label: "Communication Protocol",
